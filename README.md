@@ -4,7 +4,7 @@ A simple web app using React and Redux in ES6. Integrated with https://openweath
 
 Functionality: Allows user to search for cities in New Zealand for the upcoming weather data (5 days) including temperature, pressure and humidity. 
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/relative/path/to/img.jpg?raw=true "Screenshot")
 
 ## Usage ##
 
